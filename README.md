@@ -25,5 +25,4 @@ Scripts in <i>/src</i> folder:
 
 ### Note:
 The code in this repository is an assembly of scripts that were used to research and write my diploma thesis. I cannot guarantee it's coherency but it should work with minimal corrections (paths, script names, etc.)<br>
-To start training the model data should be generated as it was not uploaded here due to it's size.<br>
-All provided code is intellectual property of it's author and should not be directly used elsewhere.
+To start training the model data should be generated as it was not uploaded here due to it's size.
