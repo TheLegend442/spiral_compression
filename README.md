@@ -1,6 +1,6 @@
 # Spiral Compresssion Analysis
 
-This repository contains the code and data relevant to final version of my diploma thesis titled: **"Training an Explainable Model of Spiral Compression in Spirography"**.
+This repository contains the code and data relevant to final version of my diploma thesis titled: **"Training an Explainable Model of Spiral Compression in Spirography"**. Also checkout the [Web App + Backend API repository](https://github.com/TheLegend442/spiral_compression).
 
 **Abstract:**<br>
 Parkinson’s disease is a slowly progressive neurological disorder in which brain cells gradually die off. An accurate assessment of a patient’s condition is essential for appropriate therapy. One test used to evaluate symptom severity is digital spirography, where the subject is asked to draw an Archimedean spiral. Any anomalies that appear during drawing (e.g., partially straight segments, tightening/compression, jaggedness) reflect symptoms of parkinsonism. In this thesis, we focus on detecting spiral compression in an explainable, human-understandable way. We developed a transformer-based model. As is often the case in medicine, we did not have access to a sufficient amount of labeled data. Therefore, we generated a synthetic dataset and parameterized the anomalies based on their interpretations. We evaluated the model on a test set and via an interactive web interface developed for this purpose, which enables spiral drawing and spiral-compression assessment using our model.
